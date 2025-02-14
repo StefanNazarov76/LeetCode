@@ -7,4 +7,3 @@ class Solution:
                 ans += s[i]
 
         return ans
-    
