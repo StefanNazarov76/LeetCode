@@ -18,4 +18,4 @@ class Solution:
             else:
                 ans.append(not_letters.pop())
 
-        return ''.join(ans) 
+        return ''.join(ans)
